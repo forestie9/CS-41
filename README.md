@@ -1,4 +1,4 @@
-datasci
+CS41 the python programming language
 =======
 
-Johns Hopkins series courses
+Stanford Python course
